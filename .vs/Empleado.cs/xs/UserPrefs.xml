@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4DCD83BB-3AF8-4846-BC59-6713D427AB61}|Default">
+  <MonoDevelop.Ide.ItemProperties.Empleado.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Empleado.cs/BEmpleado.cs">
+    <Files>
+      <File FileName="Empleado.cs/GDeducciones.cs" Line="1" Column="1" />
+      <File FileName="Empleado.cs/GUsuario.cs" Line="1" Column="1" />
+      <File FileName="Empleado.cs/CHorarios.cs" Line="1" Column="1" />
+      <File FileName="Empleado.cs/PNomina.cs" Line="1" Column="1" />
+      <File FileName="Empleado.cs/BEmpleado.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Empleado.cs" expanded="True">
+            <Node name="Empleado.cs" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Datos" expanded="True" />
+              <Node name="BEmpleado.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/delversoza/Projects/Empleado.cs/Empleado.cs/Properties/Usuario.cs" relfile="Empleado.cs/Properties/Usuario.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

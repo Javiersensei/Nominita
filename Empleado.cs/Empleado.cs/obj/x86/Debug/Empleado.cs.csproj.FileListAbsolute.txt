@@ -1,0 +1,6 @@
+/home/delversoza/Projects/Empleado.cs/Empleado.cs/obj/x86/Debug/Empleado.cs.csprojAssemblyReference.cache
+/home/delversoza/Projects/Empleado.cs/Empleado.cs/obj/x86/Debug/Empleado.cs.csproj.CoreCompileInputs.cache
+/home/delversoza/Projects/Empleado.cs/Empleado.cs/bin/Debug/Empleado.cs.exe
+/home/delversoza/Projects/Empleado.cs/Empleado.cs/bin/Debug/Empleado.cs.pdb
+/home/delversoza/Projects/Empleado.cs/Empleado.cs/obj/x86/Debug/Empleado.cs.exe
+/home/delversoza/Projects/Empleado.cs/Empleado.cs/obj/x86/Debug/Empleado.cs.pdb
